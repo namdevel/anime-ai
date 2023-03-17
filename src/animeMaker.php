@@ -105,3 +105,5 @@ class AnimeMaker
 		return $response;
 	}
 }
+
+?>
